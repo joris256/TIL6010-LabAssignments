@@ -1,5 +1,3 @@
 # TIL6010-LabAssignments
 
-test 
-test
-test
+is het nu gelukt
